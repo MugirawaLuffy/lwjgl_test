@@ -1,4 +1,4 @@
-package entitycomponent;
+package engine.entitycomponent;
 
 public interface IComponent {
 
